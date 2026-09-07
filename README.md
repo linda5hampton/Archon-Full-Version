@@ -231,3 +231,6 @@ This repository serves as the official landing page for ARChon. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ARChon today!**
+
+---
+**Last updated:** 2026-09-07 22:41:45 UTC
