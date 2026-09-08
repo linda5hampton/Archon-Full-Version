@@ -233,4 +233,4 @@ This repository serves as the official landing page for ARChon. The software is 
 **Get the most recent version of ARChon today!**
 
 ---
-**Last updated:** 2026-09-08 10:35:42 UTC
+**Last updated:** 2026-09-08 14:53:01 UTC
